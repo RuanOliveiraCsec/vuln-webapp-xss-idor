@@ -1,0 +1,30 @@
+{
+  "name": "vuln-webapp-xss-idor",
+  "version": "1.0.0",
+  "description": "Projeto de um serviço web propositalmente vulneravel para estudar falhas como xss e idor.",
+  "keywords": [
+    "segurança",
+    "vuln",
+    "sec",
+    "cybersecurity",
+    "security"
+  ],
+  "homepage": "https://github.com/RuanOliveiraCsec/vuln-webapp-xss-idor#readme",
+  "bugs": {
+    "url": "https://github.com/RuanOliveiraCsec/vuln-webapp-xss-idor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuanOliveiraCsec/vuln-webapp-xss-idor.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Ruan Oliveira",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
